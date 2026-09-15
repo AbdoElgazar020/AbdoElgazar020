@@ -69,10 +69,10 @@
   <a href="https://linkedin.com/in/your-linkedin-here" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:ae043784@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/your-kaggle-here" target="_blank">
+  <a href="[https://kaggle.com/your-kaggle-here](https://www.kaggle.com/abdoelgazar)" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
   </a>
 </p>
